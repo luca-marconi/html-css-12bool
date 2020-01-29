@@ -1,0 +1,17 @@
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.verde {
+    background-color: lightgreen;
+}
+
+.blu {
+    background-color: lightblue;
+}
+
+.arancio {
+    background-color: orange;
+}
